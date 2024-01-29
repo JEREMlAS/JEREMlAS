@@ -29,4 +29,4 @@
  <img align="center", alt="Css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div><br/>
 
-Atualmente parece que estou atirando para todo lado, porque estou mesmo. Sou entusiasta e apaixonado por tecnologia, então por mais que meu foco seja ser um cientista de dados no futuro, estou estudando um pouco de tudo que me interessa no momento, mesmo que acabe fugindo um pouco de minha área. 
+Eu sei que parece que estou atirando para todo lado, mas é porque, de certa forma, eu estou mesmo. Sou entusiasta e apaixonado por tecnologia, então por mais que meu foco seja ser um cientista de dados, em meu tempo livre, acabo estudando um pouco de tudo que me interessa, mesmo que acabe fugindo um pouco da minha área. 
