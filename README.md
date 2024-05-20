@@ -9,19 +9,19 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JEREMlAS&layout=compact)
 
-## Tecnologias que já estou familiarizado
+## Tecnologias que utilizo no dia a dia
 
 <div style="display: inline_block"><br/>
  <img align="center", alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+ <img align="center", alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
  <img align="center", alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
  <img align="center", alt="Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
-## Tecnologias que ainda estou aprendendo
+## Tecnologias que estou aprendendo
 
 <div style="display: inline_block"><br/>
  <img align="center", alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
- <img align="center", alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
  <img align="center", alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
  <img align="center", alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
  <img align="center", alt="Csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -29,4 +29,3 @@
  <img align="center", alt="Css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div><br/>
 
-Eu sei que parece que estou atirando para todo lado, mas é porque, de certa forma, eu estou mesmo. Sou entusiasta e apaixonado por tecnologia, então por mais que meu foco seja ser um cientista de dados, em meu tempo livre, acabo estudando um pouco de tudo que me interessa, mesmo que acabe fugindo um pouco da minha área. 
